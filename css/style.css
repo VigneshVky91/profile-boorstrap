@@ -1,0 +1,33 @@
+.header{
+    height: auto;
+    margin: 0px;
+}
+
+.logo{
+    height: 50px;
+    width: 50px;
+    border-radius: 100px;
+}
+.adjust-img{
+    height: 550px;
+    width: fit-content;
+}
+
+h3{
+    font-size: 25px;
+    padding: 40px;
+}
+.course-banner{
+    height: 250px;
+    width: 250px;
+    margin-top: 10px;
+    
+}
+
+.main{
+    background-color: rgb(214, 214, 214);
+    padding-bottom: 50px;
+}
+.card{
+    background-color: rgb(0, 234, 255);
+}
